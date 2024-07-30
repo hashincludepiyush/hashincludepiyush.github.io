@@ -1,5 +1,4 @@
-# hashincludepiyush.github.io
-Mathematical Programming
+## Mathematical Programming
 <details>
   
 [1] CER MONOGRAPH Regulatory Framework for Long-Term Demand Forecasting and Power Procurement Planning. Centre for Energy Regulation, IIT Kanpur, 2019. https://cer.iitk.ac.in/
