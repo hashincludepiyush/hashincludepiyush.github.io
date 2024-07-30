@@ -1,8 +1,6 @@
 ## PIYUSH SHARMA
 
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="IMG_20240718_150800876.jpg">
-</picture>
+<img src="https://hashincludepiyush.github.io/IMG_20240718_150800876.jpg"/>
 
 1. [Ph. D. Thesis](https://drive.google.com/file/d/13iQh358T0XyYqrT-jJAwYLekEkHou_2F/view?usp=drivesdk)
 
