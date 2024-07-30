@@ -16,6 +16,6 @@
 
 7. [Investigation of network reconfiguration on the reliability and performance of distribution systems using CRO. 2017 6th International Conference on Computer Applications In Electrical Engineering Recent Advances (CERA), Indian Institute of Technology Roorkee, Uttarakhand, 2017](https://ieeexplore.ieee.org/document/8343305)
 
-<label for="name">Kindly send your questions and problems to me (0 to 100 characters):</label>
+<label for="name">Kindly send me your questions and problems (0 to 100 characters):</label>
 
-<input type="text" id="name" name="name" required minlength="4" maxlength="8" size="10" />
+<input type="text" id="name" name="name" required minlength="0" maxlength="100" size="10" />
