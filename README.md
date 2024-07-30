@@ -1,5 +1,9 @@
 ## PIYUSH SHARMA
 
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="IMG_20240718_150800876.jpg">
+</picture>
+
 1. [Ph. D. Thesis](https://drive.google.com/file/d/13iQh358T0XyYqrT-jJAwYLekEkHou_2F/view?usp=drivesdk)
 
 2. [CER MONOGRAPH Regulatory Framework for Long-Term Demand Forecasting and Power Procurement Planning. Centre for Energy Regulation, Indian Institute of Technology Kanpur, Uttar Pradesh, 2019](https://cer.iitk.ac.in/assets/downloads/CER_Monograph.pdf)
