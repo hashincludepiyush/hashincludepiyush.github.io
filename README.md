@@ -1,9 +1,9 @@
 ## PIYUSH SHARMA
 ## Mathematical Programming
 
-1. [CER MONOGRAPH Regulatory Framework for Long-Term Demand Forecasting and Power Procurement Planning. Centre for Energy Regulation, IIT Kanpur, 2019](https://cer.iitk.ac.in/)
+1. [CER MONOGRAPH Regulatory Framework for Long-Term Demand Forecasting and Power Procurement Planning. Centre for Energy Regulation, IIT Kanpur, 2019](https://cer.iitk.ac.in/assets/downloads/CER_Monograph.pdf)
 
-2. [TRANSFORMING THE INDIAN POWER SECTOR Distribution System Operators (DSOs): Need, Frameworks, and Regulatory Considerations. Government of India, 2023](https://iusstf.org/)
+2. [TRANSFORMING THE INDIAN POWER SECTOR Distribution System Operators (DSOs): Need, Frameworks, and Regulatory Considerations. Government of India, 2023](https://iusstf.org/documents/35627/42091/Whitepaper%20Transforming%20the%20Indian%20Power%20Sector)
 
 3. [A novel interior-exterior approach for the TSO-DSO based bilevel optimal power flow, IEEE Transactions on Power Systems, 2023](https://ieeexplore.ieee.org/abstract/document/10192376)
 
