@@ -1,9 +1,9 @@
-  <head font-family: Georgia;>
+  <head>
     PIYUSH SHARMA
     <img src="https://hashincludepiyush.github.io/IMG_20240718_150800876.jpg" style="display: block; margin: auto; width: 25%; height: 25%;"
     />
   </head>
-    <ul font-family: Georgia;>
+    <ul>
       <li><a href="https://drive.google.com/file/d/13iQh358T0XyYqrT-jJAwYLekEkHou_2F/view?usp=drivesdk">Ph. D. Thesis, 2024</a></li>
       <li><a href="https://cer.iitk.ac.in/assets/downloads/CER_Monograph.pdf">CER MONOGRAPH Regulatory Framework for Long-Term Demand Forecasting and Power Procurement Planning. Centre for Energy Regulation, Indian Institute of Technology Kanpur, Uttar Pradesh, 2019</a></li>
       <li><a href="https://iusstf.org/documents/35627/42091/Whitepaper%20Transforming%20the%20Indian%20Power%20Sector">TRANSFORMING THE INDIAN POWER SECTOR Distribution System Operators (DSOs): Need, Frameworks, and Regulatory Considerations. Government of India, 2023</a></li>
