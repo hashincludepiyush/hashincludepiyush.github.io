@@ -1,4 +1,5 @@
   <head>
+    font-family: Arial;
     PIYUSH SHARMA
     <img src="https://hashincludepiyush.github.io/IMG_20240718_150800876.jpg" style="display: block; margin: auto; width: 25%; height: 25%;"
     />
