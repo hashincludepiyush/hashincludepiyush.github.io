@@ -1,6 +1,6 @@
 ## PIYUSH SHARMA
 
-<img src="https://hashincludepiyush.github.io/IMG_20240711_180649155.jpg" style="display: block; margin: auto; width: 25%; height: 25%;"/>
+<img src="https://hashincludepiyush.github.io/IMG_20240711_180649155.jpg" style="display: block; margin: auto; width: 100%; height: 100%;"/>
 
 [Ph. D. Thesis, 2024](https://drive.google.com/file/d/13iQh358T0XyYqrT-jJAwYLekEkHou_2F/view?usp=drivesdk)
 
