@@ -1,28 +1,5 @@
 ## PIYUSH SHARMA
 
-        <script src="src/coverflow.js"></script>
-        <link rel="stylesheet" href="demo-style.css">
-        <div class="coverflow" data-size="180" data-spacing="20" data-shadow="true" data-flat="false" data-bgcolor="#121212" data-width="1000">
-            <img src="img/A.jpg" data-info="Moon Landing">
-            <img src="img/B.jpg" data-info="Red">
-            <img src="img/C.jpg" data-info="Greatest Hits">
-            <img src="img/D.jpg" data-info="Ghost Stories">
-            <img src="img/E.jpg" data-info="Parachutes">
-            <img src="img/F.jpg" data-info="Viva la Vida">
-            <img src="img/G.jpg" data-info="The Best Damn Thing">
-            <img src="img/H.jpg" data-info="The 1st Eleven Years">
-            <img src="img/I.jpg" data-info="American Idiot">
-            <img src="img/A.jpg" data-info="Moon Landing">
-            <img src="img/B.jpg" data-info="Red">
-            <img src="img/C.jpg" data-info="Greatest Hits">
-            <img src="img/D.jpg" data-info="Ghost Stories">
-            <img src="img/E.jpg" data-info="Parachutes">
-            <img src="img/F.jpg" data-info="Viva la Vida">
-            <img src="img/G.jpg" data-info="The Best Damn Thing">
-            <img src="img/H.jpg" data-info="The 1st Eleven Years">
-            <img src="img/I.jpg" data-info="American Idiot">
-
-
 <img src="https://hashincludepiyush.github.io/IMG_20240711_180649155.jpg" style="display: block; margin: auto; width: 100%; height: 100%;"/>
 
 [Ph. D. Thesis, 2024](https://drive.google.com/file/d/13iQh358T0XyYqrT-jJAwYLekEkHou_2F/view?usp=drivesdk)
