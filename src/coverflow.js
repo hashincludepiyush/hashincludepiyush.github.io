@@ -19,7 +19,7 @@ License: The MIT License
             el.style["-webkit-transform"] = el.style["transform"] = "rotateY(" + degree + "deg) translateZ(" + z + "px)";
         };
         var displayIndex = function (imgSize, spacing, left, imgs, index, flat, width, titleBox) {
-            var mLeft = (width - imgSize) * 1 - spacing * (index + 1) - imgSize * 1;
+            var mLeft = (width - imgSize) * 0.5 - spacing * (index + 1) - imgSize * 1;
             for (var i = 0; i <= index; ++i) {
                 imgs[i].style.left = (left + i * spacing + spacing) + "px";
                 imgs[i].style.marginLeft = mLeft + "px";
