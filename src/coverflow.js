@@ -1,7 +1,3 @@
-/*
-Author:  github.com/quietshu
-License: The MIT License
-*/
 (function(){
     window.onload = function () {
         var browserPrefix = "";
@@ -87,7 +83,7 @@ License: The MIT License
                 titleBox.className = "coverflow-title-box";
                 titleBox.style.position = "absolute";
                 titleBox.style.width = (imgSize - 20) + "px";
-                titleBox.style.height = "10px";
+                titleBox.style.height = "20px";
                 titleBox.style.lineHeight = "20px";
                 titleBox.style.fontSize = "14px";
                 titleBox.style.padding = "0 3px";
