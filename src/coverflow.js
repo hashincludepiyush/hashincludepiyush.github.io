@@ -95,7 +95,7 @@ License: The MIT License
                 titleBox.style.background = "#ddd";
                 titleBox.style.borderRadius = "10px";
                 titleBox.style.fontWeight = "normal";
-                titleBox.style.fontFamily = "'Helvetica Neue', Helvetica, Arial, sans-serif";
+                titleBox.style.fontFamily = "'Times New Roman', Times, serif";
                 titleBox.style.bottom = "28px";
                 titleBox.style.textAlign = "center";
                 titleBox.style.display = "block";
