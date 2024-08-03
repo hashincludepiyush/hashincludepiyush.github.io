@@ -91,7 +91,7 @@ License: The MIT License
                 titleBox.style.lineHeight = "20px";
                 titleBox.style.fontSize = "14px";
                 titleBox.style.padding = "0 3px";
-                titleBox.style.color = "#222";
+                titleBox.style.color = "#ffffff";
                 titleBox.style.background = "#ddd";
                 titleBox.style.borderRadius = "10px";
                 titleBox.style.fontWeight = "normal";
