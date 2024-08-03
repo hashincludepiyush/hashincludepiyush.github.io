@@ -86,8 +86,8 @@ License: The MIT License
             if (!shadow) {
                 titleBox.className = "coverflow-title-box";
                 titleBox.style.position = "absolute";
-                titleBox.style.width = (imgSize) + "px";
-                titleBox.style.height = "20px";
+                titleBox.style.width = (imgSize - 20) + "px";
+                titleBox.style.height = "10px";
                 titleBox.style.lineHeight = "20px";
                 titleBox.style.fontSize = "14px";
                 titleBox.style.padding = "0 3px";
