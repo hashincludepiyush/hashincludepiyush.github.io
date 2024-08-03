@@ -23,7 +23,7 @@ License: The MIT License
             for (var i = 0; i <= index; ++i) {
                 imgs[i].style.left = (left + i * spacing + spacing) + "px";
                 imgs[i].style.marginLeft = mLeft + "px";
-                imgs[i].style["-webkit-filter"] = "brightness(1)";
+                imgs[i].style["-webkit-filter"] = "brightness(0.75)";
                 imgs[i].style.zIndex = i + 1;
                 setTransform3D(imgs[i], flat ? 0 : ((index - i) * 10 + 45), 300, flat ? -(index - i) * 10 : (-(index - i) * 30 - 20));
             }
