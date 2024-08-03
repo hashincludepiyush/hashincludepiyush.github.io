@@ -1,2 +1,2 @@
 ## PIYUSH SHARMA
-[Webpage](https://www.hashincludepiyush.github.io)
+[Webpage](https://hashincludepiyush.github.io)
