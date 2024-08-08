@@ -42,7 +42,7 @@ a {
 .centering {
     display: block;
     font-size: 13px;
-    font-family: "Georgia", sans-serif;
+    font-family: "Georgia", serif;
     width: 800px;
     margin: 1em auto;
 }
